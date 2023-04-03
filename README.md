@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 <br>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/KingOfOrikid/Data-enhancement-and-paraphrasing-" title="Data-enhancement-and-paraphrasing"><img align="left" height="120.5" src="https://github-readme-stats.vercel.app/api/pin/?username=KingOfOrikid&repo=Data-enhancement-and-paraphrasing-&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/KingOfOrikid/Data-enhancement-and-paraphrasing-" title="Data-enhancement-and-paraphrasing"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KingOfOrikid&repo=Data-enhancement-and-paraphrasing-&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a align="right" href="https://github.com/KingOfOrikid/CNER-Clinical-Named-Entity-Recognition-" title="CNER-Clinical-Named-Entity-Recognition-"><img align="right" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=KingOfOrikid&repo=CNER-Clinical-Named-Entity-Recognition-&theme=react&border_color=61dafb&border_radius=10">
   </a>
