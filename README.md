@@ -17,12 +17,6 @@ Here are some ideas to get you started:
     <img  src="imgs/welcome.gif">
   </a>
 </h1>
-<h1 align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=B571CFE9&vCenter=true&width=435&lines=Let+me+introduce+myself" alt="Typing SVG" />
-    </a>
-  </a>
-</h1>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/yuxin-chen-82b411201/" title="LinkedIn Profile"><img width="22" src="imgs/Linkedin.png"> LinkedIn</a></code>
@@ -39,11 +33,30 @@ Here are some ideas to get you started:
   <br>
   🎓 I graduated from Shanghai University of International Business and Economics Data Science and Big Data Technology Department
   <br>
-  💻 My interesting
+  💻 My interests: Natural Language Processing, Machine Learning, Data Crawler, Data Viz,...
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  💬 Ask me anything about from <a href="https://github.com/KingOfOrikid/KingOfOrikid/issues" title="Issues">Here</a>
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: yuxin.yuki.chen@gmail.com">yuxin.yuki.chen@gmail.com</a>
 </p>
+
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="C++" height="25" src="imgs/cpp.svg"></code>
+  <code><img title="Python" height="25" src="imgs/python-original.svg"></code>
+  <code><img title="CSS" height="25" src="imgs/css.svg"></code>
+  <code><img title="Git" height="25" src="imgs/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="imgs/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="imgs/visualstudio.png"></code>
+  <code><img title="JSON" height="25" src="imgs/json.svg"></code>
+  <code><img title="GitHub" height="25" src="imgs/github.svg"></code>
+  <code><img title="MySQL" height="25" src="imgs/mysql.svg"></code>
+  <code><img title="MATLAB" height="25" src="imgs/matlab.png"></code>
+  <code><img title="R" height="25" src="imgs/R.png"></code>
+  <code><img title="AIMMS" height="25" src="imgs/aimms.svg"></code>
+  <code><img title="Julia" height="25" src="imgs/julia.png"></code>
+  <code><img title="Shell" height="25" src="imgs/shell.jpg"></code>
+</p>
+<hr>
