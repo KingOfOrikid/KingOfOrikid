@@ -35,6 +35,10 @@ Here are some ideas to get you started:
   <br>
   💻 My interests: Natural Language Processing, Machine Learning, Data Crawler, Data Viz,...
   <br>
+  🤔 I’m looking for: Jobs in data analysis/data engineer/machine learning in Canada
+  <br>
+  🌱 Here is my cv: <a href="https://github.com/YukiChen-yuxin/YukiChen-yuxin/blob/main/Yuki%20Chen-CV.pdf" title="CV">Yuki Chen's CV</a>
+  <br>
   💬 Ask me anything about from <a href="https://github.com/YukiChen-yuxin/YukiChen-yuxin/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: yuxin.yuki.chen@gmail.com">yuxin.yuki.chen@gmail.com</a>
