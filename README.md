@@ -1,5 +1,5 @@
 <!--
-**KingOfOrikid/KingOfOrikid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**YukiChen-yuxin/YukiChen-yuxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <br>
   💻 My interests: Natural Language Processing, Machine Learning, Data Crawler, Data Viz,...
   <br>
-  💬 Ask me anything about from <a href="https://github.com/KingOfOrikid/KingOfOrikid/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/YukiChen-yuxin/YukiChen-yuxin/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: yuxin.yuki.chen@gmail.com">yuxin.yuki.chen@gmail.com</a>
 </p>
@@ -66,16 +66,16 @@ Here are some ideas to get you started:
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=KingOfOrikid&theme=react&border=61dafb&hide_border=true" alt="KingOfOrikid" />
+      <img align="left" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=YukiChen-yuxin&theme=react&border=61dafb&hide_border=true" alt="YukiChen-yuxin" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=380 src="https://github-readme-stats.vercel.app/api?username=KingOfOrikid&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=380 src="https://github-readme-stats.vercel.app/api?username=YukiChen-yuxin&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingOfOrikid&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukiChen-yuxin&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 </p>
@@ -83,18 +83,18 @@ Here are some ideas to get you started:
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/KingOfOrikid/Deep-neural-network-based-knowledge-QA-system-for-the-treatment-of-pediatric-symptoms-in-TCM" title="Deep-neural-network-based-knowledge-QA-system-for-the-treatment-of-pediatric-symptoms-in-TCM"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KingOfOrikid&repo=Deep-neural-network-based-knowledge-QA-system-for-the-treatment-of-pediatric-symptoms-in-TCM&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/YukiChen-yuxin/Deep-neural-network-based-knowledge-QA-system-for-the-treatment-of-pediatric-symptoms-in-TCM" title="Deep-neural-network-based-knowledge-QA-system-for-the-treatment-of-pediatric-symptoms-in-TCM"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=YukiChen-yuxin&repo=Deep-neural-network-based-knowledge-QA-system-for-the-treatment-of-pediatric-symptoms-in-TCM&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/KingOfOrikid/Design-and-implementation-of-a-task-based-Q-A-system-based-on-TCM-knowledge-graph" title="Design-and-implementation-of-a-task-based-Q-A-system-based-on-TCM-knowledge-graph"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KingOfOrikid&repo=Design-and-implementation-of-a-task-based-Q-A-system-based-on-TCM-knowledge-graph&theme=react&border_color=61dafb&border_radius=10">
+  <a align="right" href="https://github.com/YukiChen-yuxin/Design-and-implementation-of-a-task-based-Q-A-system-based-on-TCM-knowledge-graph" title="Design-and-implementation-of-a-task-based-Q-A-system-based-on-TCM-knowledge-graph"><img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=YukiChen-yuxin&repo=Design-and-implementation-of-a-task-based-Q-A-system-based-on-TCM-knowledge-graph&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 <br>
 <br>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/KingOfOrikid/Data-enhancement-and-paraphrasing-" title="Data-enhancement-and-paraphrasing"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=KingOfOrikid&repo=Data-enhancement-and-paraphrasing-&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/YukiChen-yuxin/Data-enhancement-and-paraphrasing-" title="Data-enhancement-and-paraphrasing"><img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=YukiChen-yuxin&repo=Data-enhancement-and-paraphrasing-&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/KingOfOrikid/CNER-Clinical-Named-Entity-Recognition-" title="CNER-Clinical-Named-Entity-Recognition-"><img align="right" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=KingOfOrikid&repo=CNER-Clinical-Named-Entity-Recognition-&theme=react&border_color=61dafb&border_radius=10">
+  <a align="right" href="https://github.com/YukiChen-yuxin/CNER-Clinical-Named-Entity-Recognition-" title="CNER-Clinical-Named-Entity-Recognition-"><img align="right" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=YukiChen-yuxin&repo=CNER-Clinical-Named-Entity-Recognition-&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 <br>
@@ -102,5 +102,5 @@ Here are some ideas to get you started:
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/KingOfOrikid?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/YukiChen-yuxin?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
