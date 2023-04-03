@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-    <a href="https://yukichen-yuxin.github.io/"><img  src="imgs/welcome.gif">
+    <a href="https://yukichen-yuxin.github.io/" title="Yuki's Personal Website"><img  src="imgs/welcome.gif">
   </a>
 </h1>
 
