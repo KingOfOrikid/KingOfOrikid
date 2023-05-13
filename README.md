@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <br>
   🤔 I’m looking for: Jobs in data analysis/data engineer/machine learning in Canada
   <br>
-  🌱 Here is my cv: <a href="https://github.com/YukiChen-yuxin/YukiChen-yuxin/blob/main/Yuki%20Chen-CV.pdf" title="CV">Yuki Chen's CV</a>
+  🌱 Here is my resume: <a href="https://github.com/YukiChen-yuxin/YukiChen-yuxin/blob/main/Yuki%20Chen-Resume.pdf" title="Resume">Yuki Chen's Resume</a>
   <br>
   💬 Ask me anything about from <a href="https://github.com/YukiChen-yuxin/YukiChen-yuxin/issues" title="Issues">Here</a>
   <br>
