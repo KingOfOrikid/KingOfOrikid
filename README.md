@@ -29,9 +29,9 @@ Here are some ideas to get you started:
   Hi, I'm Yuki(Yuxin) Chen, Data Engineer & Data Analyst from China
   <br>
   <br>
-  🔭 I'm currently studying for a master's degree in UBC Data Science Department
+  🔭 I have both bachlor degree and master degree in Data Science.
   <br>
-  🎓 I graduated from Shanghai University of International Business and Economics Data Science and Big Data Technology Department
+  🎓 I graduated from University of British Columbia and Shanghai University of International Business and Economics 
   <br>
   💻 My interests: Natural Language Processing, Machine Learning, Data Crawler, Data Viz,...
   <br>
