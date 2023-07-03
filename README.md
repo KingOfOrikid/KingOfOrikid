@@ -23,13 +23,13 @@ Here are some ideas to get you started:
   <code><a href="https://blog.csdn.net/qq_45344450?spm=1000.2115.3001.5343" title="CSDN Profile"><img width="22" src="imgs/csdn.png"> CSDN</a></code>
   <code><a href="https://instagram.com/_crush_yuki?igshid=YmMyMTA2M2Y=" title="Instagram Profile"><img width="22" src="imgs/ins.png"> Instagram</a></code>
 </h5>
-<br>
+<br>e
 
 <p align="center">
   Hi, I'm Yuki(Yuxin) Chen, Data Engineer & Data Analyst from China
   <br>
   <br>
-  🔭 I have both bachlor degree and master degree in Data Science.
+  🔭 I have both bachelor degree and master degree in Data Science.
   <br>
   🎓 I graduated from University of British Columbia and Shanghai University of International Business and Economics 
   <br>
